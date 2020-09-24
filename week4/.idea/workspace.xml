@@ -140,6 +140,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/service/SpringConfig.java" />
         <option value="$PROJECT_DIR$/build/classes/java/main/cadispring/exercisespring1/controller/HomeController.java" />
         <option value="$PROJECT_DIR$/build/classes/java/main/cadispring/exercisespring1/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/build/classes/java/main/cadispring/exercisespring1/controller/MemberController.class" />
       </list>
     </option>
   </component>
@@ -463,11 +464,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29266000" />
+    <option name="totallyTimeSpent" value="30744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -487,7 +487,7 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32904148" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32946298" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32230216" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.32230216" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.39856115" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
