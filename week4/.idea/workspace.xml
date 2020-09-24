@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77e4daa7-b342-417c-a150-d398b67ceb51" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="org.springframework.boot:spring-boot-starter-thymeleaf:2.3.3.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="org.springframework.boot:spring-boot-starter-web:2.3.3.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="exercise-spring1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="exercise-spring1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/classes/java/main/cadispring/exercisespring1/controller/HelloController.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1498#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/hello-static.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/hello-template.html" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/domain/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/repository/MemberRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/repository/MemoryMemberRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/service/MemberServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/ExerciseSpring1Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/repository/MemoryMemberRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/service/SpringConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="cadispring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="cadispring" type="462c0819:PsiDirectoryNode" />
+              <item name="exercisespring1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="cadispring" type="462c0819:PsiDirectoryNode" />
+              <item name="exercisespring1" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cadispring.exercisespring1.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SM-PC\Documents\학교\카디\exercise-spring1\exercise-spring1\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExerciseSpring1Application">
+    <configuration name="MemberServiceTest.join" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-spring1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cadispring.exercisespring1.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cadispring.exercisespring1.service" />
+      <option name="MAIN_CLASS_NAME" value="cadispring.exercisespring1.service.MemberServiceTest" />
+      <option name="METHOD_NAME" value="join" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-spring1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cadispring.exercisespring1.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cadispring.exercisespring1.repository" />
+      <option name="MAIN_CLASS_NAME" value="cadispring.exercisespring1.repository.MemoryMemberRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-spring1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cadispring.exercisespring1.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cadispring.exercisespring1.repository" />
+      <option name="MAIN_CLASS_NAME" value="cadispring.exercisespring1.repository.MemoryMemberRepositoryTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-spring1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cadispring.exercisespring1.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cadispring.exercisespring1.repository" />
+      <option name="MAIN_CLASS_NAME" value="cadispring.exercisespring1.repository.MemoryMemberRepositoryTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cadispring.exercisespring1 in exercise-spring1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-spring1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cadispring.exercisespring1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cadispring.exercisespring1" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseSpring1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exercise-spring1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cadispring.exercisespring1.ExerciseSpring1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberServiceTest.join" />
+        <item itemvalue="JUnit.MemoryMemberRepositoryTest" />
+        <item itemvalue="JUnit.MemoryMemberRepositoryTest.findAll" />
+        <item itemvalue="JUnit.MemoryMemberRepositoryTest.save" />
+        <item itemvalue="JUnit.cadispring.exercisespring1 in exercise-spring1.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e4daa7-b342-417c-a150-d398b67ceb51" name="Default Changelist" comment="" />
+      <created>1598864654373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598864654373</updated>
+      <workItem from="1598864657278" duration="6458000" />
+      <workItem from="1599228345180" duration="3216000" />
+      <workItem from="1599290345205" duration="1771000" />
+      <workItem from="1599571784364" duration="2239000" />
+      <workItem from="1599658010177" duration="1526000" />
+      <workItem from="1599836291278" duration="5604000" />
+      <workItem from="1599888001116" duration="1793000" />
+      <workItem from="1600267715027" duration="3602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MemoryMemberRepositoryTest_findAll - 2020.09.12 at 00h 20m 56s.xml">
+      <configuration name="MemoryMemberRepositoryTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemoryMemberRepositoryTest - 2020.09.12 at 00h 28m 37s.xml">
+      <configuration name="MemoryMemberRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemoryMemberRepositoryTest - 2020.09.12 at 00h 29m 50s.xml">
+      <configuration name="MemoryMemberRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.12 at 00h 50m 03s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.12 at 00h 55m 48s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.12 at 01h 01m 16s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.12 at 01h 06m 53s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.17 at 00h 23m 38s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.17 at 00h 24m 31s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MemberServiceTest_join - 2020.09.17 at 00h 24m 57s.xml">
+      <configuration name="MemberServiceTest.join" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26226000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010661" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="4" sideWeight="0.5021552" side_tool="true" weight="0.2895105" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49784482" visible="true" weight="0.21024258" />
+      <window_info id="Structure" order="7" sideWeight="0.5021552" side_tool="true" weight="0.2895105" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32904148" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32946298" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3231441" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.3988355" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32751092" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.32951483" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24895105" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.020215634" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/exercise_spring1$cadispring_exercisespring1_in_exercise_spring1_test.ic" NAME="cadispring.exercisespring1 in exercise-spring1.test Coverage Results" MODIFIED="1599836391255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cadispring.exercisespring1.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hello.html" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/repository/Memory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/domain/Member.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/ExerciseSpring1ApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hello-template.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/hello-static.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/service/MemberServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cadispring/exercisespring1/repository/MemoryMemberRepositoryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/repository/MemberRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/controller/MemberController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/controller/HelloController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/service/MemberService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/repository/MemoryMemberRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/service/SpringConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cadispring/exercisespring1/ExerciseSpring1Application.java" />
+    <entry file="file://$PROJECT_DIR$/build/classes/java/main/cadispring/exercisespring1/controller/HelloController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
