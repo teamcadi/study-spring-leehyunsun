@@ -11,13 +11,10 @@
 **#회원 웹 기능 -홈화면 추가**
 
 
-
 **홈 컨트롤러 추가**
 
 package hello.hellospring.controller;
-
 import org.springframework.stereotype.Controller;
-
 import org.springframework.web.bind.annotation.GetMapping;
 
 
@@ -33,7 +30,7 @@ public class HomeController {
     
   }
   
-}
+};
 
 
 
@@ -99,18 +96,17 @@ public class MemberController {
 
 
 <html xmlns:th="http://www.thymeleaf.org">
-<body>
-<div class="container">
-<form action="/members/new" method="post">
-<div class="form-group">
-<label for="name">이름</label>
-<input type="text" id="name" name="name" placeholder="이름을 입력하세
-요">
-</div>
-<button type="submit">등록</button>
-</form>
-</div> <!-- /container -->
-</body>
+  <body>
+    <div class="container">
+      <form action="/members/new" method="post">
+        <div class="form-group">
+          <label for="name">이름</label>
+          <input type="text" id="name" name="name" placeholder="이름을 입력하세요">
+        </div>
+        <button type="submit">등록</button>
+      </form>
+    </div> <!-- /container -->
+  </body>
 </html>
 
 
