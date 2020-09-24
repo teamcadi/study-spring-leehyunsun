@@ -12,10 +12,10 @@
 
 
 ###홈 컨트롤러 추가
-
-  package hello.hellospring.controller;
-  import org.springframework.stereotype.Controller;
-  import org.springframework.web.bind.annotation.GetMapping;
+```
+package hello.hellospring.controller;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 
 
 @Controller
@@ -31,12 +31,12 @@ public class HomeController {
   }
   
 };
-
+```
 
 
 
 ###회원 관리용 홈
-
+```
 <!DOCTYPE HTML>
 
 <html xmlns:th="http://www.thymeleaf.org">
@@ -55,14 +55,14 @@ public class HomeController {
     </div> <!-- /container -->
     </body>
     </html>
-
+```
 
 
 ##회원 웹 기능-등록
 
 
 ###회원 등록 폼 컨트롤러###
-
+```
 @Controller
 
 public class MemberController {
@@ -86,12 +86,12 @@ public class MemberController {
    }
 
 }
-
+```
 
 ###회원등록 폼 HTML###
 
 경로: resources/templates/members/createMemberForm
-
+```
 <!DOCTYPE HTML>
 
 <html xmlns:th="http://www.thymeleaf.org">
@@ -107,12 +107,12 @@ public class MemberController {
     </div> <!-- /container -->
   </body>
 </html>
-
+```
 
 ###웹 등록 화면에서 데이터를 전달 받을 폼 객체###
 
 
-
+```
 package hello.hellospring.controller;
 public class MemberForm {
 private String name;
@@ -123,7 +123,7 @@ public void setName(String name) {
 this.name = name;
 }
 }
-
+```
 
 
 
