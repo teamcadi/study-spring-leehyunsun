@@ -1,4 +1,4 @@
-**[회원 관리 예제 - 웹 MVC 개발]**
+#[회원 관리 예제 - 웹 MVC 개발]
 
 회원 웹 기능 - 홈 화면 추가
 
@@ -8,14 +8,14 @@
 
 회원 웹 기능 - 홈 화면
 
-**#회원 웹 기능 -홈화면 추가**
+##회원 웹 기능 -홈화면 추가
 
 
-**홈 컨트롤러 추가**
+###홈 컨트롤러 추가
 
-package hello.hellospring.controller;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
+  package hello.hellospring.controller;
+  import org.springframework.stereotype.Controller;
+  import org.springframework.web.bind.annotation.GetMapping;
 
 
 @Controller
@@ -35,7 +35,7 @@ public class HomeController {
 
 
 
-**회원 관리용 홈**
+###회원 관리용 홈
 
 <!DOCTYPE HTML>
 
@@ -58,10 +58,10 @@ public class HomeController {
 
 
 
-**#회원 웹 기능-등록**
+##회원 웹 기능-등록
 
 
-**회원 등록 폼 컨트롤러**
+###회원 등록 폼 컨트롤러###
 
 @Controller
 
@@ -88,12 +88,11 @@ public class MemberController {
 }
 
 
-**회원등록 폼 HTML**
+###회원등록 폼 HTML###
 
 경로: resources/templates/members/createMemberForm
 
 <!DOCTYPE HTML>
-
 
 <html xmlns:th="http://www.thymeleaf.org">
   <body>
@@ -110,11 +109,20 @@ public class MemberController {
 </html>
 
 
-**웹 등록 화면에서 데이터를 전달 받을 폼 객체**
+###웹 등록 화면에서 데이터를 전달 받을 폼 객체###
 
 
 
-
+package hello.hellospring.controller;
+public class MemberForm {
+private String name;
+public String getName() {
+return name;
+}
+public void setName(String name) {
+this.name = name;
+}
+}
 
 
 
