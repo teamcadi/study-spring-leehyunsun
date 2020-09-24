@@ -31,6 +31,8 @@ public class HomeController {
 
 
 ### 회원 관리용 홈
+
+-resources/templates/home.html
 ```
 <!DOCTYPE HTML>
 
@@ -49,7 +51,7 @@ public class HomeController {
  </body>
 </html>
 ```
-
+-index.html 파일이 있지만, 웹브라우저에서 요청이 오면 스프링 컨테이너 먼저 뒤지므로, home.html 먼저 
 
 ## 회원 웹 기능-등록
 
