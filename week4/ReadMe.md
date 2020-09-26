@@ -24,7 +24,7 @@ public class HomeController {
   @GetMapping("/")  
   public String home() {  
     return "home";   
-  }  
+  }  //GET 방식. Get 일때 이 코드가 호출
 };
 ```
 
@@ -57,6 +57,8 @@ public class HomeController {
 
 
 ### 회원 등록 폼 컨트롤러
+
+경로: main/java/cadispring/exercisespring1/controller/MemberController
 ```
 @Controller
 
@@ -72,7 +74,7 @@ public class MemberController {
   @GetMapping(value = "/members/new")
   public String createForm() {
     return "members/createMemberForm";
-   }
+   } //이 부분 추가
 }
 ```
 
@@ -99,6 +101,8 @@ public class MemberController {
 
 ### 웹 등록 화면에서 데이터를 전달 받을 폼 객체
 
+main/java/cadispring/exercisespring1/controller/MemberForm
+
 ```
 package hello.hellospring.controller;
 
@@ -117,14 +121,17 @@ public class MemberForm {
 
 ### 회원 컨트롤러에서 회원을 실제 등록하는 기능
 
+경로: main/java/cadispring/exercisespring1/controller/MemberController
+
 ```
-@PostMapping(value = "/members/new")
+@PostMapping(value = "/members/new") //post mapping 해야함
 public String create(MemberForm form) {
   Member member = new Member();
   member.setName(form.getName());
   memberService.join(member);
-  return "redirect:/";
-}
+  return "redirect:/"; //끝나면 홈화면으로 보냄
+} //POST 방식. POST 일때 이 코드가 호출
+//이 코드 추가
 ```
 
 
@@ -133,13 +140,15 @@ public String create(MemberForm form) {
 
 ### 회원 컨트롤러에서 조회 기능
 
+경로: main/java/cadispring/exercisespring1/controller/MemberController
+
 ```
 @GetMapping(value = "/members")
 public String list(Model model) {
   List<Member> members = memberService.findMembers();
   model.addAttribute("members", members);
   return "members/memberList";
-}
+} //이 코드 추가
 ```
 
 
@@ -162,7 +171,7 @@ public String list(Model model) {
       </thead>
 
       <tbody>
-        <tr th:each="member : ${members}">
+        <tr th:each="member : ${members}"> <!--model 안의 값을 읽어서 member 받아옴 -->
           <td th:text="${member.id}"></td>
           <td th:text="${member.name}"></td>
         </tr>
