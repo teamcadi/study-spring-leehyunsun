@@ -30,8 +30,8 @@ public class MemberController {
 
     @GetMapping(value = "/members")
     public String list(Model model) {
-        List<Member> members = memberService.findMembers();
-        model.addAttribute("members", members);
+        List<Member> members = memberService.findMembers(); //member를 다 가져오기
+        model.addAttribute("members", members); //model을 담아서 commit으로 넘겨주기 members안에는 list형태로 회원정보가 담겨 있음
         return "members/memberList";
     } //이 코드 추가
 }
